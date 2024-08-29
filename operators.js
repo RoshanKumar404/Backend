@@ -12,5 +12,7 @@ console.log(3^3);
 console.log("rohan"+" kumar");
 console.log(1-"2")
 console.log("3"+3)
-console.log();
+console.log(1+"2");
+//ternary ope rator
 
+3>5?console.log(true):console.log(false)
