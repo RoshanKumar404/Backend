@@ -73,3 +73,12 @@ fs.readFile('trials.js',(err,data)=>{
         console.log(data.toString());
     
 })
+
+// http mmodule learning
+
+const http= require('http')
+const server= http.createServer(function(req,res){
+    res.end("just trying");
+})
+
+server.listen(2000);
