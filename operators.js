@@ -13,6 +13,6 @@ console.log("rohan"+" kumar");
 console.log(1-"2")
 console.log("3"+3)
 console.log(1+"2");
-//ternary ope rator
+//ternary operator
 
 3>5?console.log(true):console.log(false)
